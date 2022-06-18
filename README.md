@@ -1,2 +1,2 @@
-# Er
-**Time to hack distributed code for hardware. Er explores IoT and Embedded System using Erlang and Nerves.**
+# Wyred
+**Time to hack distributed code for hardware. Wyred explores IoT and Embedded System using Erlang and Nerves.**
